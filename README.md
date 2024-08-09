@@ -17,25 +17,7 @@ I am a **Student**, **Frontend Developer**, **Software Engineer**, and **Graphic
 -  🎨 I am also a graphic designer who loves to create stunning visuals and logos using tools like Photoshop and Illustrator.
 - 🧠 I enjoy challenging myself with problem-solving on platforms like LeetCode, HackerRank, HackerEarth, and CodeChef.
 - ✍️ I also learn new skills in my free time.
-- 📧 You can contact me via email at [dineshsutihar9@gmail.com](mailto:dineshsutihar9@gmail.com) or connect with me on LinkedIn:  [![Linkedin Badge](https://img.shields.io/badge/-dineshsutihar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dineshsutihar)
-
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-<div align="center">
-
-![Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind) 
-
-![Skills](https://skills.thijs.gg/icons?i=git,github,react,nodejs,docker)
-
-![Skills](https://skills.thijs.gg/icons?i=java,c,py,matlab,mysql)
-
-![Skills](https://skills.thijs.gg/icons?i=ps,figma,ai,pr)
-</div>
-
-
----
+- 📧 You can contact me via email at [Mail](mailto:dineshsutihar9@gmail.com) or connect with me on LinkedIn:  [![Linkedin Badge](https://img.shields.io/badge/-dineshsutihar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dineshsutihar)
 
 ### 🔥 &nbsp; My Stats :
 <p align="center">
