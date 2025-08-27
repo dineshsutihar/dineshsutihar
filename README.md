@@ -27,11 +27,11 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Science undergraduate with hands-on experience in building and testing full-stack web applications, real-time collaboration tools, and AI-powered systems. My focus is on writing clean, efficient code and leveraging automation to ensure software quality. With a strong foundation in DSA having solved over 500 problems and ranking in the Top 10% on LeetCode I bring a detail-oriented and analytical approach to every project.
+I am a Computer Science Engineer with hands-on experience in building and testing full-stack web applications, real-time collaboration tools, AI-powered systems, also Mobile and Desktop app. My focus is on writing clean, efficient code and leveraging automation to ensure software quality. With a strong foundation in DSA having solved over 500 problems and ranking in the Top 10% on LeetCode I bring a detail-oriented and analytical approach to every project. Apart from these I also have knowledge about Multimedia and Graphics means I can Desing, Edit and Create photoes, videos, and audio.
 
 - 🔭 I’m currently working on **CodeTranslateAI**, an AI-powered code translator Chrome extension.
 - 🌱 I’m currently learning more about **CI/CD pipelines (GitHub Actions) and advanced cloud deployment strategies**.
-- 💬 Ask me about **React, Next.js, Java, and serverless architecture**.
+- 💬 Ask me about **React, Next.js, Java, and serverless architecture, basically anything about Computer Science**.
 - 📫 You can reach me at **dineshsutihar9@gmail.com**.
 
 ---
@@ -60,7 +60,7 @@ A list of technologies and tools I have experience working with:
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
@@ -147,6 +147,38 @@ A list of technologies and tools I have experience working with:
     </td>
   </tr>
 </table>
+
+**Multimedia:**
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro" />
+      <br>Premiere Pro
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/516332/fl-studio-mobile.svg" width="48" height="48" alt="FL Studio" />
+      <br>FL Studio
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects" />
+      <br>After Effects
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
